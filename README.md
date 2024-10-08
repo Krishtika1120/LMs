@@ -1,0 +1,5 @@
+<h1 align="center">Library Management System</h1>
+
+The Library Management System is a simple Java-based project that simulates the core functionalities of a library. The system allows users to manage a list of books by performing basic operations such as adding new books, removing existing books, searching for books by their ID, and displaying all available books in the library.
+The system uses object-oriented programming principles to define a Book class, which stores essential book information like bookId, title, and author. The Library class manages a collection of books using an ArrayList and provides methods for the required operations. The project uses a simple console-based interface, where users can input their choices to interact with the system.
+This project demonstrates key Java concepts like classes, objects, collections (ArrayList), loops, and control structures (switch case). It is an ideal minor project for beginners looking to enhance their understanding of core Java programming. The system can be extended further to include more advanced features such as sorting books, managing users, issuing and returning books, etc.
